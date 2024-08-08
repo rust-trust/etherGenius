@@ -1,7 +1,9 @@
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"/>
-</div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Blockchain+Full+Stack+Developer;Senior+Software+Engineer)]()
+
 ###
 
 <div align="center">
