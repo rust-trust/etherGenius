@@ -1,10 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-
-<br><br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Blockchain+Full+Stack+Developer;Senior+Software+Engineer)]()
-
-###
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="400">
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
