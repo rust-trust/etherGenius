@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Blockchain+Full+Stack+Developer;Just+someone+who+loves+life)]()
 
 <h1 align="center">hey there 👋</h1>
