@@ -1,16 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Blockchain+Full+Stack+Developer;Just+someone+who+loves+life)]()
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm SOMEBODY from SOMEWHERE.<br><br>- ⏳ Your time is limited<br>- 🤠 Don't waste it living someone else's life<br>- ⚡  Everything else is
-secondary.</p>
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -63,9 +52,3 @@ secondary.</p>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-###
-###
-
-<h3 align="left">🔥   "If today were the last day of my life, would I want to do what I am about to do today?</h3>
-
-###
